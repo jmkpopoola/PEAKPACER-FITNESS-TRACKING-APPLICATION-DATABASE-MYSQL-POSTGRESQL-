@@ -3,7 +3,7 @@
 ## Overview
 PEAKPACER is a cutting-edge fitness tracking application designed to empower users on their health and wellness journey. It offers a comprehensive suite of features, including real-time activity tracking, personalized goal setting, and progress monitoring. With an intuitive user interface, PEAKPACER seamlessly integrates data from various fitness metrics (e.g., step counts, calorie burn, heart rate, sleep patterns), providing actionable insights to enhance fitness routines. PEAKPACER is dedicated to facilitating a holistic and personalized health monitoring experience, encouraging individuals to achieve their fitness goals with precision and motivation.
 
-![PEAKPACER Overview](images/image1.jpeg)
+![PEAKPACER Overview](PeakpacerLogo.png)
 
 ## Goals and Purpose
 The PEAKPACER Fitness Tracking App is designed to cater to users striving for a healthier, more active lifestyle. Its key objectives are:
