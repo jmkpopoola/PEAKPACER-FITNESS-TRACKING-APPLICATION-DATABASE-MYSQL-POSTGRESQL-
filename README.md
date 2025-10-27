@@ -1,4 +1,12 @@
 # PEAKPACER: Fitness Tracking Application
+## Technical and Analytical Expertise
+
+- **Programming Languages**: SQL
+- **Database & Data Engineering**: MySQL, PostgreSQL, database schema design, data modeling, ETL processes, data governance
+- **Database Tools**: MySQL Workbench, pgAdmin (for PostgreSQL), Draw.io (for schema visualization)
+- **Project Development Tools**: GitHub, VSCode
+- **Version Control & Cloud Platforms**: Git
+- **Additional Skills**: SQL query optimization, relational database management, data integrity and validation
 
 ## Overview
 PEAKPACER is a cutting-edge fitness tracking application designed to empower users on their health and wellness journey. It offers a comprehensive suite of features, including real-time activity tracking, personalized goal setting, and progress monitoring. With an intuitive user interface, PEAKPACER seamlessly integrates data from various fitness metrics (e.g., step counts, calorie burn, heart rate, sleep patterns), providing actionable insights to enhance fitness routines. PEAKPACER is dedicated to facilitating a holistic and personalized health monitoring experience, encouraging individuals to achieve their fitness goals with precision and motivation.
