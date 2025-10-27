@@ -48,12 +48,12 @@ PEAKPACER addresses common challenges in health and fitness monitoring:
    - **Challenge**: Unrealistic goals lead to frustration.  
    - **Solution**: Assists in setting achievable, personalized milestones.  
 
-![Challenge Illustration](images/image3.jpeg)
+![Challenge Illustration](Challenge.png)
 
 ## Database Structure
 The database, designed using Draw.io, supports MySQL and Postgres SQL. Key tables include `EXERCISECATEGORY` (primary key: `CategoryID`) and `EXERCISE`, linked via foreign keys for efficient categorization of exercises (e.g., cardio, strength, flexibility). The schema enables robust data management for user activities and goals.
 
-![Database Schema](images/image2.png)
+![Database Schema](Schema.png)
 
 ## Query Interpretations
 The application uses 10 sample SQL queries to manage data, including:
@@ -78,14 +78,14 @@ During development, a key challenge was implementing `EXERCISECATEGORY` as a pri
 ## Conclusion
 After extensive queries, testing, and reliability checks, PEAKPACER was summarized in a PowerPoint presentation, available in `/presentation/`. The slides highlight the application’s development, features, and impact.
 
-![Presentation Slide 1](images/image5.jpeg)
-![Presentation Slide 2](images/image6.jpeg)
-![Presentation Slide 3](images/image7.jpeg)
-![Presentation Slide 4](images/image8.jpeg)
-![Presentation Slide 5](images/image9.jpeg)
-![Presentation Slide 6](images/image10.jpeg)
-![Presentation Slide 7](images/image11.jpeg)
-![Presentation Slide 8](images/image12.jpeg)
+![Presentation Slide 1](Query_with_or_keyword.png)
+![Presentation Slide 2](QuerytoretrieveUsers.png)
+![Presentation Slide 3](QuerywithaLEFTorRIGHTjoinkeyword.png)
+![Presentation Slide 4](QuerywithanINNERjoinkeyword.png)
+![Presentation Slide 5](QuerywithandKeyword.png)
+![Presentation Slide 6](Querywithhavingkeyword.png)
+![Presentation Slide 7](AggregateQuery1.png)
+![Presentation Slide 8](Aggregate_Query_2.png)
 
 ## Installation
 1. Clone the repository:
