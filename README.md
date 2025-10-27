@@ -19,7 +19,7 @@ The ultimate aim is to empower users to take charge of their well-being, celebra
 ## Need for PEAKPACER
 The demand for a streamlined, personalized approach to health and fitness monitoring drives PEAKPACER’s development. In today’s fast-paced world, individuals face challenges maintaining a healthy balance due to sedentary lifestyles and time constraints. PEAKPACER addresses this by offering a centralized platform to track activities, set achievable goals, and monitor progress. It goes beyond basic tracking by providing data-driven insights and tailored suggestions, meeting the need for accessible, effective health monitoring.
 
-![App Interface Example](APP INTERFACE PEAKPACER.jpg)
+![App Interface Example](APP%20INTERFACE%20PEAKPACER.jpg)
 
 ## Challenges in Monitoring Health and Fitness Goals
 PEAKPACER addresses common challenges in health and fitness monitoring:
