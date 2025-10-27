@@ -90,4 +90,4 @@ After extensive queries, testing, and reliability checks, PEAKPACER was summariz
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/peakpacer.git
+   git clone https://github.com/jmkpopoola/PEAKPACER-FITNESS-TRACKING-APPLICATION-DATABASE-MYSQL-POSTGRESQL-.git
